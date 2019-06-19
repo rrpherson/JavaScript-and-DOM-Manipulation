@@ -4,6 +4,7 @@
 let tbody = d3.select("tbody");
 // From data.js
 var tableData = data;
+    console.log(data)
 
 // Function Build Table
 function buildTable(data){
